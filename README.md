@@ -16,8 +16,8 @@ NOTE: Other issue are not fully tested, Not for daily use.
 Install linux-header first, that depend on your kernel!
 
 ```
-git clone https://github.com/twentysevns/rtl8822bs-sdio-driver
-cd rtl8822bs-sdio-driver
+git clone https://github.com/twentysevns/rtl8822bs
+cd rtl8822bs
 make -j$(nproc)
 sudo make install
 sudo modprobe 88x2bs
