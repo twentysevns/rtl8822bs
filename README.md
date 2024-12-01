@@ -1,5 +1,5 @@
 
-## rtl8822bs
+## rtl8822bs sdio driver
 
 
 ### Known Issues
