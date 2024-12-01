@@ -1,5 +1,5 @@
 
-## rtl8822bs-aml
+## rtl8822bs
 
 
 ### Known Issues
