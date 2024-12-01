@@ -13,7 +13,7 @@ NOTE: Other issue are not fully tested, Not for daily use.
 
 ### How to use
 
-install linux-header deb
+Install linux-header first, that depend on your kernel!
 
 ```
 git clone https://github.com/twentysevns/rtl8822bs-sdio-driver
