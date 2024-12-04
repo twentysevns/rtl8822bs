@@ -24,3 +24,4 @@ sudo make install
 sudo modprobe 88x2bs
 ```
 
+need bluetooth ? see [here](https://github.com/twentysevns/rtl8822bs/tree/master/bluetooth)
