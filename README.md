@@ -7,6 +7,7 @@
 ```
 High CPU load (idle 99%)
 Not fully support iw ioctl command (iw dev del)
+Unstable AP mode when Bluetooth is ON
 ```
 
 NOTE: Other issue are not fully tested, Not for daily use.
