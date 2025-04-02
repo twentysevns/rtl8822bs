@@ -17,7 +17,7 @@ NOTE: Other issue are not fully tested, Not for daily use.
 Install linux-header first, that depend on your kernel!
 
 ```
-git clone https://github.com/twentysevns/rtl8822bs
+git clone https://github.com/twntysvnz/rtl8822bs
 cd rtl8822bs
 make -j$(nproc)
 sudo make install
