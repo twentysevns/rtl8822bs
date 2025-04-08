@@ -13,8 +13,6 @@ __NOTE:__ Other issue are not fully tested, Not for daily use.
 
 ## How to use
 
-Install (linux header & development tools) first, that depend on your kernel and OS!
-
 Clone this repository.
 ```
 git clone https://github.com/twntysvnz/rtl8822bs
