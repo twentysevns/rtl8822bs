@@ -1,20 +1,19 @@
 
-## rtl8822bs
+# rtl8822bs
 
+## Known Issues
 
-### Known Issues
-
-
-- High CPU load (idle 99%)
-- Not fully support iw ioctl command (iw dev del)
-- Unstable AP mode when Bluetooth is ON (client always reconnected)
+- High CPU load (idle 99%).
+- Not fully support iw ioctl command (iw dev del).
+- Unstable AP mode when Bluetooth is ON (client always reconnected).
 - Trunk version armbian won't work, need to create custom build with stable version then change kernel name to prevent kernel upgrade, dont use "main" branch. 
+- Wifi stuck at 12dbm.
 
 NOTE: Other issue are not fully tested, Not for daily use.
 
-### How to use
+## How to use
 
-Install linux-header first, that depend on your kernel!
+Install (linux header & development tools) first, that depend on your kernel and OS!
 
 Clone this repository.
 ```
