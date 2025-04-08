@@ -6,7 +6,7 @@
 - High CPU load (idle 99%).
 - Not fully support iw ioctl command (iw dev del).
 - Unstable AP mode when Bluetooth is ON (client always reconnected).
-- Trunk version armbian won't work, need to create custom build with stable version then change kernel name to prevent kernel upgrade, dont use "main" branch. 
+- Trunk version armbian won't work, need to create custom build with stable version then change kernel name to prevent kernel upgrade or hold the pkgs, dont use "main" branch. 
 - Wifi stuck at 12dbm.
 
 __NOTE:__ Other issue are not fully tested, Not for daily use.
