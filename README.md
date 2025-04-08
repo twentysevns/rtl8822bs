@@ -9,7 +9,7 @@
 - Trunk version armbian won't work, need to create custom build with stable version then change kernel name to prevent kernel upgrade, dont use "main" branch. 
 - Wifi stuck at 12dbm.
 
-NOTE: Other issue are not fully tested, Not for daily use.
+__NOTE:__ Other issue are not fully tested, Not for daily use.
 
 ## How to use
 
