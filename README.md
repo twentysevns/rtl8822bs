@@ -15,7 +15,7 @@ __NOTE:__ Other issue are not fully tested, Not for daily use.
 
 Clone this repository.
 ```
-git clone https://github.com/twntysvnz/rtl8822bs
+git clone https://github.com/rhpz/rtl8822bs
 cd rtl8822bs
 ```
 Compiling kernel module and install.
